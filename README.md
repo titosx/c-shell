@@ -13,4 +13,4 @@ This project is a unix shell and was implemented as a University exercise.
 	- `env` shows environment variables
 
 ## Run
-Use gcc cs345sh.c -o cs345sh to compile, and then ./cs345sh to run.
+Use `gcc cs345sh.c -o cs345sh` to compile, and then `./cs345sh` to run.
