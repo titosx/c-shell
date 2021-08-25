@@ -1,7 +1,7 @@
 /*--------------------------------------*/
-/* Titos Chaniotakis					*/
-/* HY345 - Assignment					*/
-/* cs345sh.c							*/
+/* Titos Chaniotakis			*/
+/* HY345 - Assignment			*/
+/* cs345sh.c				*/
 /*--------------------------------------*/
 
 #include <stdio.h>
